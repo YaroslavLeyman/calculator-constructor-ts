@@ -1,0 +1,11 @@
+.switcherBox {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 1px;
+    height: 38px;
+    background: #F3F4F6;
+    border-radius: 6px;
+    margin: 10px;
+    gap: 10px;
+}

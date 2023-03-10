@@ -1,0 +1,25 @@
+.emptyCanvas {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 240px;
+    height: 448px;
+    border: 2px dashed #C4C4C4;
+    border-radius: 6px;
+    margin: 10px;
+}
+
+.canvasWithData {
+    justify-content: flex-start;
+    background: #FFFFFF;
+    border: 0
+}
+
+.itemContainer {
+    margin: 4px 0;
+}
+
+.moveStyle {
+    cursor: move
+}
